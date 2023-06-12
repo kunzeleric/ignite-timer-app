@@ -1,4 +1,4 @@
-import { Router } from './components/Router'
+import { Router } from './Router'
 import { BrowserRouter } from 'react-router-dom'
 import { ThemeProvider } from 'styled-components'
 import { defaultTheme } from './styles/themes/default'
