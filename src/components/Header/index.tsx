@@ -1,4 +1,3 @@
-import React from 'react'
 import { HeaderContainer } from './styles'
 import logoIgnite from '../../assets/logo-ignite.svg'
 import { Timer, Scroll } from 'phosphor-react'
