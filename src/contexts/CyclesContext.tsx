@@ -77,8 +77,8 @@ export function CyclesContextProvide({ children }: CyclesContextProviderProps) {
       value={{
         activeCycle,
         activeCycleId,
-        markCurrentCycleAsFinished,
         amountSecondsPassed,
+        markCurrentCycleAsFinished,
         setSecondsPassed,
         createNewCycle,
         interruptCurrentCycle,
