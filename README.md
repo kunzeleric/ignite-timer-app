@@ -5,7 +5,7 @@ Project developed during a ReactJS module in Ignite program by Rocketseat. The p
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![IgniteTimer](https://github.com/kunzeleric/ignite-timer-app/assets/114115220/8e473c1a-dec6-4a45-9f23-e828b25ab5b8)
 
 
 ## Technologies & Dependencies
