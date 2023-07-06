@@ -18,6 +18,7 @@ Project developed during a ReactJS module in Ignite program by Rocketseat. The p
 - Immer
 - Date-fns
 - Styled Components
+  
 ## Take Aways
 
 It was very easy to realize how much you can actually implement to make your React Application very robust and responsive.
